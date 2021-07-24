@@ -10,4 +10,3 @@ device files, each has multiple channels through which process are able to write
 * **message_slot.c:** Kernel module implementing the message-slot mechanism.
 * **message_sender.c, message_reader.c:** user space programs demonstrates usage of the newly defined device files.
 * **build.sh, clean.sh:** bash scripts for initializing a usage of the module and finalizing its.
-* 
