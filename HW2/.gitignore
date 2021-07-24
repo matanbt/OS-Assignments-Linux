@@ -1,0 +1,11 @@
+CMakeLists.txt
+shell.pdf
+out.txt
+out2.txt
+result.txt
+shell_orig.c
+
+# testers:
+medi.c
+writee.c
+readee.c
