@@ -1,5 +1,0 @@
-*.zip
-*.pdf
-*.txt
-with debug
-cmake-build-debug
