@@ -5,3 +5,4 @@ with debug
 cmake-build-debug
 test.c
 tests.sh
+/.idea
